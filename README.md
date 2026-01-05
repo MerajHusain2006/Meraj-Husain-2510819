@@ -58,3 +58,4 @@ Iteration count helps compare efficiency between for and while loops.
 
 👨‍💻 Author
 Written as a learning exercise for understanding loops in C.
+<img width="1920" height="1080" alt="Screenshot 2026-01-05 100228" src="https://github.com/user-attachments/assets/62bd21ee-e419-4145-b5be-7bfed29572af" />
